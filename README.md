@@ -8,8 +8,8 @@ negative number or zero, an error message will be printed and the user will be p
 between each of them.
 
 
-				1					
-			2	*	3				
-		4	*	*	*	5			
-	6	*	*	*	*	*	7		
-8	*	*	*	*	*	*	*	9
+    1					
+   2*3				
+  4***5			
+ 6*****7		
+8*******9
